@@ -1,4 +1,4 @@
-# maven_market_analysis
+# Sales Analytics
 This project explores the performance of Maven Market, a fictional multinational grocery chain operating in the USA, Canada, and Mexico. It analyzes sales, profit, returns, customer behavior, and store efficiency for the years 2023–2024. The interactive Power BI dashboard helps uncover business insights across products, customers, and regions.
 Key Features:
 1. **Sales & Profit Tracking**
